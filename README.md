@@ -51,8 +51,7 @@ You can change the following parameters in the `config.yaml` file:
 
 | Parameter | Description |
 |--|--|
-|threshold |
-
+|threshold | threshold value used in the correlation-based feature selection
 
 
 ## 🔼 Contribution
