@@ -1,4 +1,4 @@
-# pyparrot-control-using-hand-gesture
+# Prognosis Prediction Models
 
 ## 📖 Description
 
