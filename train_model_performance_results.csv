@@ -1,0 +1,5 @@
+Model Name,Best Parameters,Accuracy,Precision,Recall,F1 Score,F1 Score using GridSearch CV
+Naive Bayes,{},1.0,1.0,1.0,1.0,0.9989826529281336
+Support Vector Machine,"{'svc__C': 0.1, 'svc__gamma': 0.1, 'svc__kernel': 'linear'}",1.0,1.0,1.0,1.0,1.0
+Decision Tree Classifier,"{'classifier__max_depth': 10, 'classifier__min_samples_split': 4}",0.27439024390243905,0.962709026280405,0.27439024390243905,0.24452765182763486,0.2513594865911163
+Random Forest Classifier,"{'classifier__max_depth': 12, 'classifier__n_estimators': 80}",0.998729674796748,0.9987972452862827,0.998729674796748,0.9987298624093905,0.9994850948509486
